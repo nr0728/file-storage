@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Better YCOJ
-// @version      1.3.7
+// @version      1.3.8
 // @description  更好的 YCOJ
 // @author       Aak
 // @match        http://cqyc.com:2222/*
